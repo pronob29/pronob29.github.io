@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: "https://scholar.google.com/citations?user=qG9WVOoAAAAJ&hl=en&authuser=1"
-
   - title: "Teaching"
     url: /teaching/    
  
   - title: "Projects"
     url: /projects/
   #   # url: https://scholar.google.es/citations?user=xxxxxxxx=en
-    
+  
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?user=qG9WVOoAAAAJ&hl=en&authuser=1"
+  
   - title: "Resume"
     # url: /cv/
     url: /files/Resume_of_Pronob.pdf
