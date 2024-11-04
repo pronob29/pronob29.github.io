@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/spg.png){: .align-right width="300px"}
 👨🏻‍💻 Hello there👋🏼!! I'm a final-year PhD student at the **University of Maryland, Baltimore County**. My research focuses on automating support group formation in online health forums using advanced **generative models** and **topic modeling** techniques.
 
 🎓 **Research Overview**
