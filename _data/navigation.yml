@@ -5,6 +5,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+ 
+  - title: "Projects"
+    url: /projects/
+  #   # url: https://scholar.google.es/citations?user=xxxxxxxx=en
     
   - title: "Resume"
     # url: /cv/
@@ -12,10 +16,6 @@ main:
 
   # - title: "Portfolio"
   #   url: /portfolio/
-  
-  - title: "Projects"
-    url: /projects/
-  #   # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
   #   url: /year-archive/
