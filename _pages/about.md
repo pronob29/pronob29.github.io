@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Pronob!"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final-year PhD student at the **University of Maryland, Baltimore County**. My research focuses on automating support group formation in online health forums using advanced **generative models** and **topic modeling** techniques.
+👨🏻‍💻 Hello there👋🏼!! I'm a final-year PhD student at the **University of Maryland, Baltimore County**. My research focuses on automating support group formation in online health forums using advanced **generative models** and **topic modeling** techniques.
 
 🎓 **Research Overview**
 I’ve developed two novel generative models to enhance personalized support in healthcare:
