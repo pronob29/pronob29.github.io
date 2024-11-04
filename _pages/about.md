@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/spg.png){: .align-right width="300px"}
 👨🏻‍💻 Hello there👋🏼!! I'm a final-year PhD student at the **University of Maryland, Baltimore County**. My research focuses on automating support group formation in online health forums using advanced **generative models** and **topic modeling** techniques.
 
-🎓 **Research Overview**
+💡 **Research Overview**
 I’ve developed two novel generative models to enhance personalized support in healthcare:
 - **Group-specific Dirichlet Multinomial Regression (gDMR)** and **Group-specific Structural Topic Model (gSTM)** – These models assign users to optimal support groups based on personalized content, demographic features, and interaction data, leading to **improved group coherence, stability, and user engagement**.
 - **Advanced Recommendation Systems** – I engineered recommendation systems in Python, Java, and R that leverage topic modeling and node embeddings from user interactions, resulting in a **75% improvement in personalized support group suggestions**.
