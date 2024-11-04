@@ -1,0 +1,7 @@
+---
+title: "Performance Evaluation of Generalized Logit Model and Proportional Odds Model: A Comparative Analysis on Car Evaluation Dataset"
+collection: projectss
+category: manuscripts
+permalink: /projects/paper1
+paperurl: 'http://pronob29.github.io/files/paper1.pdf'
+---
