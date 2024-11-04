@@ -15,7 +15,7 @@ redirect_from:
 
 🎓 **Research Overview**
 I’ve developed two novel generative models to enhance personalized support in healthcare:
-- **Group-specific Dirichlet Multinomial Regression (gDMR)** and **Group-specific Structural Topic Model (gSTM)** – These models assign users to optimal support groups based on personalized content, demographic features, and interaction data, leading to **improved group coherence, stability, and user engagement**.
+- 💡 **Group-specific Dirichlet Multinomial Regression (gDMR)** and **Group-specific Structural Topic Model (gSTM)** – These models assign users to optimal support groups based on personalized content, demographic features, and interaction data, leading to **improved group coherence, stability, and user engagement**.
 - 🚀 **Advanced Recommendation Systems** – I engineered recommendation systems in Python, Java, and R that leverage topic modeling and node embeddings from user interactions, resulting in a **75% improvement in personalized support group suggestions**.
 - 📊 **User Experience Surveys** – Led comprehensive surveys to evaluate user preferences, benefits, and privacy concerns, helping shape future improvements in support platforms, such as group size adjustments and communication features.
 - 📈 **Benchmark Improvements** – Achieved significant advancements in topic coherence, log-likelihood, and fairness, setting new standards for personalized healthcare support systems using real-world data.
