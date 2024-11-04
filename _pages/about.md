@@ -27,7 +27,7 @@ I hold an MS in Statistics from the **University of Kentucky** and a BS in Stati
 💼 **Professional Experience**
 - **Technuf LLC (Summer 2024, Fall 2022)**  
   - Developed **advanced Generative AI models**, integrating **Large Language Models (LLMs)** such as GPT and BERT with **SIEM systems** to improve cybersecurity, reducing security breaches by identifying threats faster and more accurately.
-  - 🚀 Achieved a **25% improvement in threat detection accuracy** through model optimization.
+  - Achieved a **25% improvement in threat detection accuracy** through model optimization.
   - Led a **data-driven Medicaid analysis project** using ML models, resulting in a **55% reduction in operational costs** and an **80% increase in revenue**.
   - Integrated ML-driven insights into business strategies, strengthening Technuf LLC's healthcare analytics offerings.
 
