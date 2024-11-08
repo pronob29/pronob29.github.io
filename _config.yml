@@ -7,7 +7,20 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"  # Set theme skin, options include "default", "air", "aqua", etc.
 
-
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      header:
+        overlay_image: "/assets/images/your-header-image.jpg"  # Path to your header image
+        overlay_filter: rgba(0, 0, 0, 0.5)  # Adjust the overlay color and opacity
+        caption: "Welcome to Pronob's HomePage"
+        actions:
+          - label: "Learn More"
+            url: "/about/"
 
 # Site Settings
 locale                   : "en-US"
