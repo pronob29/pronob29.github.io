@@ -31,8 +31,9 @@ I hold an MS in Statistics from the **University of Kentucky** and a BS in Stati
   - Led a **data-driven Medicaid analysis project** using ML models, resulting in a **55% reduction in operational costs** and an **80% increase in revenue**.
   - Integrated ML-driven insights into business strategies, strengthening Technuf LLC's healthcare analytics offerings.
 
-- **Bangladesh Bank (Central Bank of Bangladesh)**
-  - Worked as a **Deputy Director**, contributing to economic policy research and statistical projects for **national economic development**.
+- **Bangladesh Bank**
+  - Worked as a **Senior Data Scientist**, contributing to economic policy research and statistical projects for **national economic development**.
+  - developed and implemented **machine learning models** that improved **credit risk assessment** accuracy by 20%, reducing **default rates** by 15%, and leveraged advanced statistical and machine learning techniques to boost foreign direct investment inflows by 15%, contributing an additional $500 million annually.
 
 🌱 I’m passionate about applying AI and data science to create impactful, real-world solutions in healthcare, security, and economic policy. I’m always looking to connect with like-minded individuals, so feel free to reach out!
 
