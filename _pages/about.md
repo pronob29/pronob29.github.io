@@ -11,30 +11,38 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/spg.png){: .align-right width="300px"}
-👨🏻‍💻 Hello there👋🏼!! I'm a final-year PhD student at the **University of Maryland, Baltimore County**. My research focuses on automating support group formation in online health forums using advanced **generative models** and **topic modeling** techniques.
+👨🏻‍💻 Hello there👋🏼!! I’m an **Applied AI Scientist** with senior-level experience translating research into real-world impact across **healthcare, finance, and cybersecurity**. I completed my **PhD in Information Systems (AI & Machine Learning)** at the **University of Maryland, Baltimore County** in April 2026.
 
-💡 **Research Overview**
-I’ve developed two novel generative models to enhance personalized support in healthcare:
-- **Group-specific Dirichlet Multinomial Regression (gDMR)** and **Group-specific Structural Topic Model (gSTM)** – These models assign users to optimal support groups based on personalized content, demographic features, and interaction data, leading to **improved group coherence, stability, and user engagement**.
-- **Advanced Recommendation Systems** – I engineered recommendation systems in Python, Java, and R that leverage topic modeling and node embeddings from user interactions, resulting in a **75% improvement in personalized support group suggestions**.
-- **User Experience Surveys** – Led comprehensive surveys to evaluate user preferences, benefits, and privacy concerns, helping shape future improvements in support platforms, such as group size adjustments and communication features.
-- **Benchmark Improvements** – Achieved significant advancements in topic coherence, log-likelihood, and fairness, setting new standards for personalized healthcare support systems using real-world data.
-- **Open-Source Contributions** – Released an [R package for gSTM](https://github.com/pronob29/gstm) empowering researchers and developers to implement these models in diverse projects.
+💡 **Research Highlights**
+My doctoral research focused on building AI systems for personalized support in online health communities:
+- **PL-NCF (Pseudo-Label Neural Collaborative Filtering)** – Invented a novel framework addressing extreme interaction sparsity in online health recommendations, achieving a **2× improvement in HR@5** and an **83.4% relative gain** in NeuMF-PL variants.
+- **gDMR & gSTM Topic Models** – Architected probabilistic topic models integrating user-generated text, demographic metadata, and Node2Vec network embeddings, achieving **15% coherence improvement** and **2× topic distinctiveness** over LDA, DMR, and STM baselines across 4 datasets.
+- **Large-Scale Evaluation** – Applied rigorous statistical validation on datasets with 2M+ users and 8M+ posts across 15 health forums (Cohen Kappa inter-rater reliability κ = 0.78).
+- **Open-Source Contributions** – Released an [R package for gSTM](https://github.com/pronob29/gstm) enabling researchers to implement these models in diverse projects.
 
 🎓 **Academic Background**
-I hold an MS in Statistics from the **University of Kentucky** and a BS in Statistics from the **University of Dhaka**. These experiences laid a solid foundation in statistics and data science, essential for my research in healthcare and machine learning.
+- **PhD, Information Systems (AI & ML)** – University of Maryland, Baltimore County (2026)
+- **MS, Statistics** – University of Kentucky (2021)
+- **MS & BS, Statistics** – University of Dhaka (2017, 2015)
 
-💼 **Professional Experience**
-- **Technuf LLC (Summer 2024, Fall 2022)**  
-  - Developed **advanced Generative AI models**, integrating **Large Language Models (LLMs)** such as GPT and BERT with **SIEM systems** to improve cybersecurity, reducing security breaches by identifying threats faster and more accurately.
-  - Achieved a **25% improvement in threat detection accuracy** through model optimization.
-  - Led a **data-driven Medicaid analysis project** using ML models, resulting in a **55% reduction in operational costs** and an **80% increase in revenue**.
-  - Integrated ML-driven insights into business strategies, strengthening Technuf LLC's healthcare analytics offerings.
+💼 **Industry Experience**
 
-- **Bangladesh Bank**
-  - Worked as a **Senior Data Scientist**, contributing to economic policy research and statistical projects for **national economic development**.
-  - Developed and implemented **machine learning models** that improved **credit risk assessment** accuracy by 20%, reducing **default rates** by 15%, and leveraged advanced statistical and machine learning techniques to boost foreign direct investment inflows by 15%, contributing an additional $500 million annually.
+**Applied AI Scientist – Behavioral Health** | Technuf LLC *(Dec 2025 – Apr 2026)*
+Designed a PPO-based RL recommendation engine that increased session retention by **15%** and user engagement by **10%** across 5 behavioral health programs. Operationalized responsible AI auditing (SHAP + Fairlearn), reducing bias gaps by **22%** across 3 protected demographic groups. Directed compliant data pipelines processing **1M+ records daily** under HIPAA and GDPR.
 
-🌱 I’m passionate about applying AI and data science to create impactful, real-world solutions in healthcare, security, and economic policy. I’m always looking to connect with like-minded individuals, so feel free to reach out!
+**AI Research Scientist, Edge Intelligence** | Axiado Corporation *(Jul 2025 – Nov 2025)*
+Pioneered lightweight transformer-based temporal modeling for embedded cybersecurity, improving threat detection accuracy by **20%** and reducing false positives by **12%** on ARM Ethos-U NPUs. Achieved **4× model size reduction** via INT8 quantization-aware training and structured pruning with <1% accuracy loss.
+
+**Applied AI Scientist – Generative AI & Threat Intelligence** | Technuf LLC *(Jun – Aug 2024)*
+Designed RAG pipelines integrating **50K+ threat intelligence documents**, accelerating incident response by **40%** and reducing mean-time-to-resolution by **25%**. Built hybrid threat-scoring models that reduced low-value alerts by **30%**.
+
+**Director, AI Strategy & Analytics** | Bangladesh Bank *(Apr 2018 – Dec 2021)*
+Led national AI modernization initiatives deployed across 12 regional branches serving **170M+ citizens**. Designed AML anomaly detection (XGBoost) processing **$1M+ in daily transactions** at 92% precision. Built Bengali-language NLP conversational AI handling **3K+ monthly queries**, reducing support ticket volume by **25%**.
+
+🌱 I’m passionate about applying probabilistic modeling and responsible AI to create impactful, real-world solutions. Feel free to reach out!
+
+📄 **Certificates & Training**
+- [Qualtrics Survey Software – Certificate I](/files/Qualtrics Survey Software.pdf)
+- [Qualtrics Survey Software – Certificate II](/files/Qualtrics Survey Software2.pdf)
 
 
