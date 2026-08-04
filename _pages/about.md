@@ -37,12 +37,3 @@ Pioneered lightweight transformer-based temporal modeling for embedded cybersecu
 Designed RAG pipelines integrating **50K+ threat intelligence documents**, accelerating incident response by **40%** and reducing mean-time-to-resolution by **25%**. Built hybrid threat-scoring models that reduced low-value alerts by **30%**.
 
 **Director, AI Strategy & Analytics** | Bangladesh Bank *(Apr 2018 – Dec 2021)*
-Led national AI modernization initiatives deployed across 12 regional branches serving **170M+ citizens**. Designed AML anomaly detection (XGBoost) processing **$1M+ in daily transactions** at 92% precision. Built Bengali-language NLP conversational AI handling **3K+ monthly queries**, reducing support ticket volume by **25%**.
-
-🌱 I’m passionate about applying probabilistic modeling and responsible AI to create impactful, real-world solutions. Feel free to reach out!
-
-📄 **Certificates & Training**
-- [Qualtrics Survey Software – Certificate I](/files/Qualtrics Survey Software.pdf)
-- [Qualtrics Survey Software – Certificate II](/files/Qualtrics Survey Software2.pdf)
-
-
